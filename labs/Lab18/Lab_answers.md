@@ -25,7 +25,7 @@ Medical
 Book
 
 2. Which is the genre with the most apps rated?
-Social Networking	2974676
+Games	8717381
 
 3. Which is the genre with most apps?
 Games	169
