@@ -37,15 +37,6 @@ B. For even sum: , Twice: 1+3, 1+5,  2+4, 2+6, 3+5, 4+6, Once: 1+1, 2+2,3+3, 4+4
 C. Probability of having a 6 on both dice = 1/6 of having a 6 on each die so 1/6 x 1/6 = 1/36 
 
 Challenge 2: 
-One player picks two cards from a poker deck. Describe the measurable space and the random variable for:
-* A. The number of figures he picks.
-* B. The sum of card values. Consider that the value of figures is 10 and the value of aces is 15.
-* C. The number of hearts or spades he picks.
-
-Describe the following events:
-* Case A: The number of figures in the cards the player picked is two.
-* Case B: The sum of card values is 17.
-* Case C: The value of both cards is less than 8.
 
 A. Total cards = 52 
 Total figures = 4x4 = 16 
@@ -53,7 +44,39 @@ P(F1) = 16/52
 P(F2) = 15/51 - assuming the first card picked is already a figure so the players continues to pick, hoping to have a second figure
 P(F1 & F2) = 16/52x15/51 = 240/2652 = 20/221 or 9% chance of picking two figures
 B. possibilities : 10(or figure) + 7, 9+8
-10(or figure) + 7 = 4x4 = 16/52 & 4/52 = P = 
-9+8 = 4/52 & 4/52 
-
+(P10then7) = 16/52 x 4/51 = 2,4%
+P(7then10) = 4/52 x 16/51 = 2,4%
+P(9&8) = 4/52 x 4/51 = 0,60%
+Total =  3,4 % 
 C. P1 = 8x4 = 32/ 52 , P2 = 31/51,  (P1UP2) = 992/2652 = 248/663
+
+Challenge 3:
+Two players roll a dice. Describe the measurable space and the random variable for:
+
+A. The score of player A.
+B. The greatest score.
+C. The earnings of player A if the game rules state that:
+"The player with the greatest score gets a coin from the other player.".
+D. The earnings of player A if the game rules state that:
+"The player with the greatest score gets as many coins as the difference between the score of player A and player B.".
+Describe the following events:
+
+Case A: The score of player A is 2.
+Case B: The greatest score is lower or equal than 2.
+Case C: Considering the case where the winner gets as many coins as the difference between scores (D), describe:
+Player A wins at least 4 coins.
+Player A loses more than 2 coins.
+Player A neither wins nor loses coins.
+
+A. P(D2) = 1/6 
+B. P(A)<=2 = 2/6
+P(B)<=2 = 2/6
+P(A)UP(B)= 2/6x2/6 = 4/36 = 1/9 = 
+C. P(Awins4) : winning at least 4 coins possibilities = 5 vs 1 /or/ 6 vs 2 /or/ 6 vs 1 // total possibilities = 6x6 = 36
+P(Awins4) = 3/36 = 1/12 = 8,3%
+P(Aloses2) : losing at least 2 coins possibilities = 1 vs 3,4,5,6 /or/ 2 vs 4,5,6 /or/ 3 vs 5,6 /or/ 4 vs6 = 10 possibilities
+P(Aloses2) = 10/36 = 5/18 = 27,8%
+P(draw) = 6/36 = 1/6 = 16,7%
+
+
+
