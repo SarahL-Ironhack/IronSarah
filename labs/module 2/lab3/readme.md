@@ -51,22 +51,6 @@ Total =  3,4 %
 C. P1 = 8x4 = 32/ 52 , P2 = 31/51,  (P1UP2) = 992/2652 = 248/663
 
 Challenge 3:
-Two players roll a dice. Describe the measurable space and the random variable for:
-
-A. The score of player A.
-B. The greatest score.
-C. The earnings of player A if the game rules state that:
-"The player with the greatest score gets a coin from the other player.".
-D. The earnings of player A if the game rules state that:
-"The player with the greatest score gets as many coins as the difference between the score of player A and player B.".
-Describe the following events:
-
-Case A: The score of player A is 2.
-Case B: The greatest score is lower or equal than 2.
-Case C: Considering the case where the winner gets as many coins as the difference between scores (D), describe:
-Player A wins at least 4 coins.
-Player A loses more than 2 coins.
-Player A neither wins nor loses coins.
 
 A. P(D2) = 1/6 
 B. P(A)<=2 = 2/6
