@@ -3,13 +3,13 @@
 ## Challenge 1 :
 Find a and b, if median=42, mean=50
 20,34, 34,  12, 56, 110, 49, a, b.
-A = 42
-B = 93
+**A = 42**
+**B = 93**
 
 ## Challenge 2 : 
 A car hit an average speed of v1 = 60 kmph in the first half of the journey, and hit an average speed of v2 = 110 kmph in the second half of the journey. Determine the average speed of the car.
 
-(v1 + v2)/2 = 170/2 = **85kmph average
+(v1 + v2)/2 = 170/2 = **85kmph average**
 
 ## Challenge 3: 
 240 + ((480 - 399) / 200)x (304-240) = approx. 266 
