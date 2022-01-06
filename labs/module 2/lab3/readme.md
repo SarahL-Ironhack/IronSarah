@@ -1,5 +1,5 @@
 
-PART 1 
+# PART 1 
 Challenge 1 :
 Find a and b, if median=42, mean=50
 20,34, 34,  12, 56, 110, 49, a, b.
