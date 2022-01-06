@@ -1,21 +1,21 @@
 
 # PART 1 
-Challenge 1 :
+## Challenge 1 :
 Find a and b, if median=42, mean=50
 20,34, 34,  12, 56, 110, 49, a, b.
 A = 42
 B = 93
 
-Challenge 2 : 
+## Challenge 2 : 
 A car hit an average speed of v1 = 60 kmph in the first half of the journey, and hit an average speed of v2 = 110 kmph in the second half of the journey. Determine the average speed of the car.
 
 (v1 + v2)/2 = 170/2 = 85kmph average
 
-Challenge 3: 
+## Challenge 3: 
 240 + ((480 - 399) / 200)x (304-240) = approx. 266 
 266 / 400 = 0.665 so 66.6% 
 
-Challenge 4: 
+## Challenge 4: 
 Mean = (9.5x16 + 29.5x13 + 49.5x17 + 69.5x4 + 89.5x4 + 109.5x3+ 129.5 + 149.5 + 169.5) / 60  = 46.5mn 
 
 median = 40 + ((60/2)-29)/17) x 19 = 41.11 
@@ -23,8 +23,8 @@ median = 40 + ((60/2)-29)/17) x 19 = 41.11
 standard deviation = (16x(9.5-46.5)² + 13x(29.5-46.5)² + 17x(49.5-46.5)² + 4x(69.5-46.5)² + 4x(89.5-46.5)² + 3x(109.5-46.5)² + (129.5-46.5)² + (149.4-46.5)² + (169.5-46.5)²)/60
 std = approx 33
 
-PART 2
-Challenge 1:
+# PART 2
+## Challenge 1:
 
 A. P(D1) = 2/6 of having a number greater than 5 (including 5)
 P(D2= 2/6 of having a number greater than 5 (including 5)
@@ -35,7 +35,7 @@ B. For even sum: , Twice: 1+3, 1+5,  2+4, 2+6, 3+5, 4+6, Once: 1+1, 2+2,3+3, 4+4
 
 C. Probability of having a 6 on both dice = 1/6 of having a 6 on each die so 1/6 x 1/6 = 1/36 
 
-Challenge 2: 
+## Challenge 2: 
 
 A. Total cards = 52 
 Total figures = 4x4 = 16 
@@ -51,7 +51,7 @@ Total =  3,4 %
 
 C. P1 = 8x4 = 32/ 52 , P2 = 31/51,  (P1UP2) = 992/2652 = 248/663
 
-Challenge 3:
+## Challenge 3:
 
 A. P(D2) = 1/6 
 
