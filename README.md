@@ -19,3 +19,9 @@
 - [ ] KPI's
 - [ ] Dashboards
 - [ ] Tableau
+
+
+## Projects completed: 👷‍♀️
+- [x] Project 1 : TicTacToe on Python
+- [x] Project 2 : Access to primary Education : WorldBank API and MySQL, Data Normalization
+- [x] Project 3 : Cyberbullying on Twitter : Data cleaning and analyzis 
