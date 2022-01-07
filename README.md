@@ -6,6 +6,12 @@
 - [x] Libraries such as Numpy, Pandas 
 - [x] Using Matplotlib.pyplot and Seaborn
 - [x] Descriptive statistics
+- [x] MySQL
+- [x] Correlations
+- [x] API's
+- [x] Webscrapping with BeautifulSoup
+- [x] DataFrame calculations
+- [x] Pivot and Crosstables 
 
 ## These are the topics that are to come: 💥
 
