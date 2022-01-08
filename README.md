@@ -13,7 +13,7 @@
 - [x] DataFrame calculations
 - [x] Pivot and Crosstables 
 
-## These are the topics that are to come: 💥
+## These are the topics that are yet to come: 💥
 
 - [ ] Machine learning
 - [ ] KPI's
