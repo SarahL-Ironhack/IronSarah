@@ -12,6 +12,8 @@
 - [x] Webscrapping with BeautifulSoup
 - [x] DataFrame calculations
 - [x] Pivot and Crosstables 
+- [x] Hypothesis testing
+
 
 ## These are the topics that are yet to come: 💥
 
@@ -19,6 +21,7 @@
 - [ ] KPI's
 - [ ] Dashboards
 - [ ] Tableau
+- [ ] Probabilities
 
 
 ## Projects completed: 👷‍♀️
