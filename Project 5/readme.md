@@ -1,7 +1,9 @@
 # PROJECT 5 - HR DATA 🏫
 
 ## Content
-- [Project organization](#project organization)
+- Project organization
+- Pain points
+- 
 
 ## Project organization 
 
@@ -12,3 +14,8 @@
 - [x] Analysis
 - [x] Streamlit
 - [x] 
+
+
+## Paint points
+
+## 
