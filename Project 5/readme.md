@@ -13,7 +13,7 @@
 - [x] Statistics and charts
 - [x] Analysis
 - [x] Streamlit
-- [x] 
+- [x] Presentation 
 
 
 ## Paint points
