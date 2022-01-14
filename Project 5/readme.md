@@ -1,7 +1,7 @@
 # PROJECT 5 - HR DATA 🏫
 
 ## Content
-- [Project organization](#Project organization)
+- [Project organization](#project organization)
 
 ## Project organization 
 
