@@ -3,7 +3,7 @@
 ## Content
 - Project organization
 - Pain points
-- 
+
 
 ## Project organization 
 
