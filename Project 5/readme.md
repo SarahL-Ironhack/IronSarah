@@ -16,6 +16,8 @@
 - [x] Presentation 
 
 
-## Paint points
+## Pain points
 
-## 
+- Streamlit appropriation
+- Getting valuable insights
+
