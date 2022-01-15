@@ -3,7 +3,7 @@
 ## Content
 - Project organization
 - Pain points
-- 
+
 
 ## Project organization 
 
@@ -16,6 +16,8 @@
 - [x] Presentation 
 
 
-## Paint points
+## Pain points
 
-## 
+- Streamlit appropriation
+- Getting valuable insights
+
