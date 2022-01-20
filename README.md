@@ -13,15 +13,14 @@
 - [x] DataFrame calculations
 - [x] Pivot and Crosstables 
 - [x] Hypothesis testing
+- [x] Dashboards
+- [x] Tableau
 
 
 ## These are the topics that are yet to come: 💥
 
 - [ ] Machine learning
-- [ ] KPI's
-- [ ] Dashboards
-- [ ] Tableau
-- [ ] Probabilities
+
 
 
 ## Projects completed: 👷‍♀️
