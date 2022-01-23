@@ -18,7 +18,25 @@ b. Central
 d. South
 
 6. **Which Product Sub-Category has a Shipping Cost to Sales ratio of above 3%?**
-a. Tables
-b. Chairs & Chairmats
 c. Paper
-d. Binders and Binder Accessories
+
+7.**Find the customer with the lowest overall profit. What is his/her profit ratio?**
+d. -771.39%
+
+8. **Determine which State in the Central Region has the highest distribution of profits using interquartile ranges.**
+a. South Dakota
+
+9. **Look at the sum of profits for each Product Sub-Category. Which sub-category is $31,069 below the average profit across all categories?**
+c. Envelopes
+
+10. **What percent of total profits do the top 10 customer by Sales represent?**
+d. None of the Above
+
+11. **What was the Moving Average of Sales in June of 2012, including six months prior and six months after?**
+c. $188,552
+
+12. **Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios (profit as a percentage of sales) of more than 25%? (Select all that apply)**
+c. 7,000
+d. 8,000
+f. 11,000
+g. 18,000
