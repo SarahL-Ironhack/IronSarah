@@ -15,11 +15,8 @@
 - [x] Hypothesis testing
 - [x] Dashboards
 - [x] Tableau
+- [x] Machine learning
 
-
-## These are the topics that are yet to come: 💥
-
-- [ ] Machine learning
 
 
 
@@ -28,3 +25,4 @@
 - [x] **Project 2** : *Access to primary Education* : WorldBank API and MySQL, Data Normalization
 - [x] **Project 3** : *Cyberbullying on Twitter* : Data cleaning and analysis 
 - [x] **Project 4** : *Diamonds* : Data cleaning, EDA and Matplotlib/Seaborn charts
+- [x] **Project 5**: *HR Analytics* : display on streamlit
